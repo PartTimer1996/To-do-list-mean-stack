@@ -17,13 +17,6 @@
     "express": "^4.17.0",
     "lodash": "^4.17.11",
     "mongoose": "^5.5.12",
-    "request": "^2.88.0",
-    "bower":"^1.8.0",
-    "grunt":"^1.0.1"
-  },
-  "scripts": {
-    "start": "node ./www.js",
-    "build": "grunt dist",
-    "postinstall": "./node_modules/bower/bin/bower install && npm run build"
+    "request": "^2.88.0"
   }
 }
