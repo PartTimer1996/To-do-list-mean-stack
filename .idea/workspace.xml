@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4fa387d-b473-4646-8cb4-8a22e42fbbb3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="d4fa387d-b473-4646-8cb4-8a22e42fbbb3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -159,7 +156,7 @@
       <workItem from="1559684751483" duration="1820000" />
       <workItem from="1559754845315" duration="7414000" />
       <workItem from="1559854185456" duration="2852000" />
-      <workItem from="1560205400235" duration="3834000" />
+      <workItem from="1560205400235" duration="4079000" />
     </task>
     <task id="LOCAL-00001" summary="Procfile added">
       <created>1560285496465</created>
@@ -172,7 +169,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15920000" />
+    <option name="totallyTimeSpent" value="16165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,7 +184,7 @@
     <frame x="900" y="27" width="1020" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2537613" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2537613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2492864" />
       <window_info id="npm" order="2" side_tool="true" weight="0.32921028" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32921028" />
