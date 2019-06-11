@@ -2,84 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4fa387d-b473-4646-8cb4-8a22e42fbbb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/todolist.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/todolist.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Date.js" beforeDir="false" afterPath="$PROJECT_DIR$/Date.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weekday.html" beforeDir="false" afterPath="$PROJECT_DIR$/Weekday.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weekend.html" beforeDir="false" afterPath="$PROJECT_DIR$/Weekend.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-conv.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-sign.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/sshpk-verify.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/uuid.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/body-parser/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/ejs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ejs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/hyper-schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/json-ref" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/links" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-00/schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/hyper-schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/json-ref" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/links" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-01/schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/hyper-schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/json-ref" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/links" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-02/schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/address" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/calendar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/card" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/geo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/examples/interfaces" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/hyper-schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/json-ref" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/links" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-03/schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/hyper-schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/links" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-04/schema" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-03.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/draft-zyp-json-schema-04.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/links.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/lib/validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/test/tests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongoose/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongoose/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/request/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/es5/uri.all.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/es5/uri.all.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/es5/uri.all.min.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/es5/uri.all.min.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-iri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-iri.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-iri.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-iri.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-uri.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-uri.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/regexps-uri.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/http.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/http.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/http.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/https.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/https.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/https.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/https.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/mailto.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn-uuid.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn-uuid.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/schemes/urn.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/uri.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/uri.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/util.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/dist/esnext/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/tests/qunit.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/tests/qunit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/tests/qunit.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/tests/qunit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/About.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/About.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/Footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/Footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/Header.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/Header.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/list.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,17 +23,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="672">
+              <caret line="147" selection-start-line="147" selection-end-line="147" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/list.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            <state relative-caret-position="300">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -117,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/views/Header.ejs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -146,8 +80,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/public/css/styles.css" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/list.ejs" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -170,6 +105,17 @@
             <path>
               <item name="todolist" type="b2602c69:ProjectViewProjectNode" />
               <item name="todolist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todolist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todolist" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todolist" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todolist" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="todolist" type="b2602c69:ProjectViewProjectNode" />
@@ -214,18 +160,35 @@
       <workItem from="1559684751483" duration="1820000" />
       <workItem from="1559754845315" duration="7414000" />
       <workItem from="1559854185456" duration="2852000" />
-      <workItem from="1560205400235" duration="1785000" />
+      <workItem from="1560205400235" duration="3202000" />
     </task>
+    <task id="LOCAL-00001" summary="Procfile added">
+      <created>1560285496465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560285496465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13871000" />
+    <option name="totallyTimeSpent" value="15288000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="900" y="27" width="1020" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15145436" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2537613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2492864" />
       <window_info id="npm" order="2" side_tool="true" weight="0.32921028" />
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32921028" />
@@ -235,11 +198,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32897604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -248,16 +211,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Procfile added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Procfile added" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -269,14 +229,28 @@
     <entry file="file://$PROJECT_DIR$/views/Header.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/list.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
