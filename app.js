@@ -77,7 +77,7 @@ app.get("/", function(req, res) {
 app.get("/:listName", function (req,res) {
 
  const newList =  _.capitalize(req.params.listName);
-
+k
  List.findOne({name: newList}, function (err, foundList ) {
    if (!err){
      if(!foundList){
